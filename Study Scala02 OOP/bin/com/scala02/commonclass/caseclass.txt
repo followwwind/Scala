@@ -1,0 +1,16 @@
+###case class与class的区别
+
+
+class
+如：class Name(var value:String)
+等价于:
+class Name(s:String){
+ 	private var _value:String = s
+ 	def value:String = _value
+ 	def value_=(newValue:String)：Unit = _value = newValue
+}
+case class
+1.主构造器中的参数默认为val类型，会成为实例的一个字段
+2.编译器会自动为主构造器创建apply方法
+3.自动生成toString、equals、hashCode方法
+4.无法从一个case类中派生出非case类
