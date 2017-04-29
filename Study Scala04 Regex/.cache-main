@@ -1,0 +1,86 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+E:\CodeWorkspace\ScalaWorkspace\Study Scala04 Regex\src -> E:\CodeWorkspace\ScalaWorkspace\Study Scala04 Regex\bin
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> D:\PROGRAM FILES (X86)\Java\Jre\lib\resources.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\rt.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\jsse.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\jce.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\charsets.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\jfr.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\ext\access-bridge-64.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\ext\cldrdata.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\ext\dnsns.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\ext\jaccess.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\ext\jfxrt.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\ext\localedata.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\ext\nashorn.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\ext\sunec.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\ext\sunjce_provider.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\ext\sunmscapi.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\ext\sunpkcs11.jar;D:\PROGRAM FILES (X86)\Java\Jre\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> E:\Eclipse\Eclipse-Scala\eclipse-64\dropins\scala\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+6 -> -encoding
+7 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+2 items
+E:\CodeWorkspace\ScalaWorkspace\Study Scala04 Regex\src\com\scala01\base\RegexObj.scala -> E:\CodeWorkspace\ScalaWorkspace\Study Scala04 Regex\bin\com\scala01\base\RegexObj$.class
+E:\CodeWorkspace\ScalaWorkspace\Study Scala04 Regex\src\com\scala01\base\RegexObj.scala -> E:\CodeWorkspace\ScalaWorkspace\Study Scala04 Regex\bin\com\scala01\base\RegexObj.class
+binary dependencies:
+2 items
+E:\CodeWorkspace\ScalaWorkspace\Study Scala04 Regex\src\com\scala01\base\RegexObj.scala -> D:\PROGRAM FILES (X86)\Java\Jre\lib\rt.jar
+E:\CodeWorkspace\ScalaWorkspace\Study Scala04 Regex\src\com\scala01\base\RegexObj.scala -> E:\Eclipse\Eclipse-Scala\eclipse-64\dropins\scala\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+E:\CodeWorkspace\ScalaWorkspace\Study Scala04 Regex\src\com\scala01\base\RegexObj.scala -> com.scala01.base.RegexObj
+E:\CodeWorkspace\ScalaWorkspace\Study Scala04 Regex\src\com\scala01\base\RegexObj.scala -> com.scala01.base.RegexObj$
+used names:
+0 items
+product stamps:
+2 items
+E:\CodeWorkspace\ScalaWorkspace\Study Scala04 Regex\bin\com\scala01\base\RegexObj$.class -> lastModified(1481992844885)
+E:\CodeWorkspace\ScalaWorkspace\Study Scala04 Regex\bin\com\scala01\base\RegexObj.class -> lastModified(1481992844881)
+source stamps:
+1 items
+E:\CodeWorkspace\ScalaWorkspace\Study Scala04 Regex\src\com\scala01\base\RegexObj.scala -> hash(9b878999d755c029ae77b6d6beea39afb461f0c2)
+binary stamps:
+2 items
+D:\PROGRAM FILES (X86)\Java\Jre\lib\rt.jar -> lastModified(1460693696714)
+E:\Eclipse\Eclipse-Scala\eclipse-64\dropins\scala\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar -> lastModified(1459507055000)
+class names:
+2 items
+D:\PROGRAM FILES (X86)\Java\Jre\lib\rt.jar -> java.lang.Object
+E:\Eclipse\Eclipse-Scala\eclipse-64\dropins\scala\plugins\org.scala-lang.scala-library_2.11.8.v20160304-115712-1706a37eb8.jar -> scala.util.matching.Regex$
+internal apis:
+1 items
+E:\CodeWorkspace\ScalaWorkspace\Study Scala04 Regex\src\com\scala01\base\RegexObj.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAYKoJiAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAZY29tLnNjYWxhMDEuYmFzZS5SZWdleE9ianVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBVdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4AQXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ASVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANnNxAH4ASHQABUFycmF5cQB+AE51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ASHQABlN0cmluZ3NxAH4ATHNxAH4AT3VxAH4AUgAAAANzcQB+AFR0AARqYXZhc3EAfgBUdAAEbGFuZ3EAfgBZc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+AG0AAAACc3EAfgBIdAAGT2JqZWN0cQB+AHFzcQB+AEh0AANBbnlxAH4ATnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQAEGNvbS5zY2FsYTAxLmJhc2VzcQB+AIR0AAtjb20uc2NhbGEwMXNxAH4AhHQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWQ2oNHt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAA3RTpcQ29kZVdvcmtzcGFjZVxTY2FsYVdvcmtzcGFjZVxTdHVkeSBTY2FsYTA0IFJlZ2V4XGJpbnQAN0U6XENvZGVXb3Jrc3BhY2VcU2NhbGFXb3Jrc3BhY2VcU3R1ZHkgU2NhbGEwNCBSZWdleFxzcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFJuHiZnXVcAprne21r7qOa+0YfDC
+external apis:
+0 items
+source infos:
+1 items
+E:\CodeWorkspace\ScalaWorkspace\Study Scala04 Regex\src\com\scala01\base\RegexObj.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWQ2oNHt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAN0U6XENvZGVXb3Jrc3BhY2VcU2NhbGFXb3Jrc3BhY2VcU3R1ZHkgU2NhbGEwNCBSZWdleFxiaW50ADdFOlxDb2RlV29ya3NwYWNlXFNjYWxhV29ya3NwYWNlXFN0dWR5IFNjYWxhMDQgUmVnZXhcc3Jj
