@@ -2,21 +2,21 @@ package com.wind.scala.base.grammar
 
 object DataType {
   def dateType() {
-    var s = "string"
+    val s = "string"
     println("String:" + s)
-    var i = 1
+    val i = 1
     println("Int:" + i)
-    var l = 123l
+    val l = 123l
     println("Long:" + l)
-    var f = 3.14f
+    val f = 3.14f
     println("Float:" + f)
-    var d = 3.14 //小数默认为double
+    val d = 3.14 //小数默认为double
     println("Double:" + d)
-    var b = true
+    val b = true
     println("Boolean:" + b)
 
     //多行字符字符串表示法
-    var str = """Welcome
+    val str = """Welcome
        to
        Scala
       """
@@ -43,6 +43,6 @@ object DataType {
     
   }
   def main(args: Array[String]): Unit = {
-    dateType();
+    dateType()
   }
 }

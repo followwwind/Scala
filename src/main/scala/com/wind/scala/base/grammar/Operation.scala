@@ -80,8 +80,8 @@ object Operation {
     c <<= 2 
     println("c <<= 2  = " + c)
     c >>= 2
-    println("c >>= 2  = " + c);
-    c >>= 2;
+    println("c >>= 2  = " + c)
+    c >>= 2
     println("c >>= a  = " + c)
     c &= a
     println("c &= 2  = " + c)

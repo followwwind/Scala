@@ -21,14 +21,14 @@ object ArrayObj {
       println(x)
     }
     // 计算数组所有元素的总会
-    var total = 0.0;
-    for (i <- 0 to (myList.length - 1)) {
+    var total = 0.0
+    for (i <- myList.indices) {
       total += myList(i);
     }
     println("总和为 " + total);
     // 查找数组中的最大元素
     var max = myList(0);
-    for (i <- 1 to (myList.length - 1)) {
+    for (i <- 1 until  myList.length) {
       if (myList(i) > max) 
         max = myList(i)
     }
@@ -39,17 +39,17 @@ object ArrayObj {
     val arr:Array[Int] = Array(1,2,3,4)
     for{
       a <- arr 
-      tmp = if(a<4){a}
+      tmp = if(a<4)a
     }{
-      print(tmp+"\t")
+      print(tmp + "\t")
     }
     println()
-    for(a<-arr if a!=3){
-      print(a+"\t")
+    for(a <- arr if a != 3){
+      print(a + "\t")
     }
   }
   def main(args: Array[String]): Unit = {
-      //forArray()
-      method()
+      forArray()
+//      method()
   }
 }
